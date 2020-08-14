@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 785304651095b4868ac8972e413983f9, type: 3}
+  m_Name: JoystickData_Active
+  m_EditorClassIdentifier: 
+  fonSprite: {fileID: 6768926678365908667, guid: 746888213a64a4547abd1184459860a2,
+    type: 3}
+  topSprite: {fileID: 8936143136471952955, guid: 746888213a64a4547abd1184459860a2,
+    type: 3}

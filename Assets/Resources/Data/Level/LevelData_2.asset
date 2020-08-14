@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bab251a5a867747bd929b4c319fa6676, type: 3}
+  m_Name: LevelData_2
+  m_EditorClassIdentifier: 
+  index: 2
+  spawnTime: 0.8
+  enemyObjects:
+  - {fileID: 8319243331511076653, guid: 3c35fc5ecd0fb408daacd474da8f7ed1, type: 3}
+  - {fileID: 2512473314502303398, guid: d852863dc32de4de98c4136f69e1c6ab, type: 3}
+  - {fileID: 3485019386694008368, guid: 22d70e4ffe879468f85995cf535f307b, type: 3}
+  - {fileID: 2539724632740294913, guid: 40fe5c75b31574b6abd61e7b8c5edb6e, type: 3}
+  explosionObject: {fileID: 2395669777026936345, guid: d5f47daa078254c0d865fc794c3e4ef2,
+    type: 3}
+  neededScore: 5000
