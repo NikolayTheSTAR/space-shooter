@@ -76,15 +76,6 @@ public class GameController : MonoBehaviour, IGameController
 
     #endregion // Set
 
-    // public void LastCompletedLevel(int value)
-    // {
-    //     if (value <= Levels.Count)
-    //     {
-    //         dataController.SetLastCompletedLevel(value);
-    //         UpdateActiveLevelData();
-    //     }
-    // }
-
     public void UpdateActiveLevelData()
     {
         try
